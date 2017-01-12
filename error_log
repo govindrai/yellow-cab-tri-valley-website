@@ -284,3 +284,15 @@ Stack trace:
 [25-Nov-2016 02:47:56 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
 [25-Nov-2016 02:48:24 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
 [25-Nov-2016 02:48:27 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: name in /home/raigovind93/public_html/mail.php on line 3
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/mail.php on line 4
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: email in /home/raigovind93/public_html/mail.php on line 5
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/mail.php on line 6
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/mail.php on line 7
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: date in /home/raigovind93/public_html/mail.php on line 8
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: time in /home/raigovind93/public_html/mail.php on line 9
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: passengers in /home/raigovind93/public_html/mail.php on line 10
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: comments in /home/raigovind93/public_html/mail.php on line 11
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/mail.php on line 12
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/mail.php on line 13
+[12-Jan-2017 05:43:03 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/mail.php on line 14
