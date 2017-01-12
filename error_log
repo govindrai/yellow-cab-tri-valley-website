@@ -1,0 +1,286 @@
+[10-Nov-2016 02:14:04 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 15
+[10-Nov-2016 02:14:16 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 15
+[10-Nov-2016 02:14:54 UTC] PHP Warning:  require_once(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 3
+[10-Nov-2016 02:14:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 3
+[10-Nov-2016 02:14:56 UTC] PHP Warning:  require_once(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 3
+[10-Nov-2016 02:14:56 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 3
+[10-Nov-2016 02:15:02 UTC] PHP Warning:  require_once(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 3
+[10-Nov-2016 02:15:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 3
+[10-Nov-2016 02:15:17 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 15
+[10-Nov-2016 02:17:44 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:17:47 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:28:25 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:29:35 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 15
+[10-Nov-2016 02:35:22 UTC] PHP Warning:  require_once(../vendor/autoload.phpdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 6
+[10-Nov-2016 02:35:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.phpdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 6
+[10-Nov-2016 02:35:23 UTC] PHP Warning:  require_once(../vendor/autoload.phpdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 6
+[10-Nov-2016 02:35:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.phpdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 6
+[10-Nov-2016 02:35:42 UTC] PHP Warning:  require_once(../vendor/autolospdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:35:42 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autolospdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:35:48 UTC] PHP Warning:  require_once(../vendor/autolospdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:35:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autolospdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:38:01 UTC] PHP Warning:  require_once(../vendor/autolospdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:38:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autolospdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 02:43:05 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 16
+[10-Nov-2016 02:45:11 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 16
+[10-Nov-2016 02:45:13 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 16
+[10-Nov-2016 02:49:57 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 16
+[10-Nov-2016 02:49:59 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 16
+[10-Nov-2016 02:58:05 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 17
+[10-Nov-2016 02:58:07 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 17
+[10-Nov-2016 02:58:50 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 18
+[10-Nov-2016 03:03:14 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 18
+[10-Nov-2016 03:05:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:06:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:09:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:12:29 UTC] PHP Warning:  require_once(../vendor/autoload.phpdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:12:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.phpdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:12:30 UTC] PHP Warning:  require_once(../vendor/autoload.phpdf): failed to open stream: No such file or directory in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:12:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.phpdf' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/raigovind93/public_html/mailer.php on line 4
+[10-Nov-2016 03:12:48 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 18
+[10-Nov-2016 03:23:58 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 19
+[10-Nov-2016 03:55:06 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 19
+[10-Nov-2016 07:47:41 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:49:59 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:50:01 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:52:12 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:52:14 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:55:15 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:55:16 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:57:26 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:57:28 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:57:56 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 07:59:29 UTC] PHP Fatal error:  Uncaught exception 'Dotenv\Exception\InvalidPathException' with message 'Unable to read the environment file at /home/raigovind93/public_html/sendgrid.env.' in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php:75
+Stack trace:
+#0 /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php(52): Dotenv\Loader->ensureFileIsReadable()
+#1 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(91): Dotenv\Loader->load()
+#2 /home/raigovind93/vendor/vlucas/phpdotenv/src/Dotenv.php(48): Dotenv\Dotenv->loadData()
+#3 /home/raigovind93/public_html/mailer.php(13): Dotenv\Dotenv->load()
+#4 {main}
+  thrown in /home/raigovind93/vendor/vlucas/phpdotenv/src/Loader.php on line 75
+[10-Nov-2016 08:02:24 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 24
+[11-Nov-2016 13:30:29 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 3
+[11-Nov-2016 13:39:47 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 3
+[11-Nov-2016 13:52:51 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 3
+[12-Nov-2016 16:15:10 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 4
+[12-Nov-2016 16:17:26 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 4
+[12-Nov-2016 16:18:15 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 3
+[12-Nov-2016 16:18:16 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 3
+[12-Nov-2016 16:30:30 UTC] PHP Notice:  Undefined variable: SENDGRID_API_KEY in /home/raigovind93/public_html/testforelmer.php on line 3
+[12-Nov-2016 16:35:08 UTC] PHP Notice:  Array to string conversion in Command line code on line 1
+[12-Nov-2016 16:39:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in Command line code on line 1
+[12-Nov-2016 16:39:17 UTC] PHP Notice:  Array to string conversion in Command line code on line 1
+[12-Nov-2016 16:39:25 UTC] PHP Parse error:  syntax error, unexpected '$_ENV' (T_VARIABLE) in Command line code on line 1
+[12-Nov-2016 16:41:46 UTC] PHP Notice:  Use of undefined constant yomomma - assumed 'yomomma' in Command line code on line 1
+[12-Nov-2016 16:43:01 UTC] PHP Notice:  Use of undefined constant yomomma - assumed 'yomomma' in Command line code on line 1
+[12-Nov-2016 16:43:42 UTC] PHP Parse error:  syntax error, unexpected '$_ENV' (T_VARIABLE) in Command line code on line 1
+[12-Nov-2016 16:49:07 UTC] PHP Warning:  getenv() expects at least 1 parameter, 0 given in Command line code on line 1
+[12-Nov-2016 16:49:11 UTC] PHP Notice:  Use of undefined constant s - assumed 's' in Command line code on line 1
+[12-Nov-2016 16:49:27 UTC] PHP Notice:  Use of undefined constant SENDGRID_API_KEY - assumed 'SENDGRID_API_KEY' in Command line code on line 1
+[12-Nov-2016 16:49:39 UTC] PHP Notice:  Use of undefined constant s - assumed 's' in Command line code on line 1
+[12-Nov-2016 17:02:50 UTC] PHP Parse error:  syntax error, unexpected 'ak' (T_STRING) in Command line code on line 1
+[12-Nov-2016 17:31:43 UTC] PHP Notice:  Array to string conversion in /home/raigovind93/public_html/mailer.php on line 24
+[16-Nov-2016 08:22:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/raigovind93/public_html/testforelmer.php on line 737
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:23:07 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:23:07 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:25:06 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:25:07 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:25:11 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:25:11 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:25:15 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:25:15 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:26:43 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:26:43 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:26:47 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:26:47 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:26:52 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:26:52 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:27:36 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:27:36 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:28:34 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:28:34 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:28:34 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:28:34 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:28:34 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:29:33 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:29:33 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:29:33 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:29:33 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:29:33 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:29:45 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:29:45 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:29:45 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:29:45 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:29:45 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:30:31 UTC] PHP Notice:  Undefined variable: pickup_location in /home/raigovind93/public_html/testforelmer.php on line 633
+[16-Nov-2016 08:30:31 UTC] PHP Notice:  Undefined variable: dropoff_location in /home/raigovind93/public_html/testforelmer.php on line 634
+[16-Nov-2016 08:30:31 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:30:31 UTC] PHP Notice:  Undefined variable: phone_number in /home/raigovind93/public_html/testforelmer.php on line 643
+[16-Nov-2016 08:30:31 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:30:42 UTC] PHP Notice:  Undefined variable: date in /home/raigovind93/public_html/testforelmer.php on line 635
+[16-Nov-2016 08:30:42 UTC] PHP Fatal error:  Call to undefined function headers() in /home/raigovind93/public_html/testforelmer.php on line 736
+[16-Nov-2016 08:43:34 UTC] PHP Fatal error:  Class 'Email' not found in /home/raigovind93/public_html/testforelmer.php on line 732
+[16-Nov-2016 08:45:30 UTC] PHP Notice:  Undefined variable: personalization in /home/raigovind93/public_html/testforelmer.php on line 733
+[16-Nov-2016 08:45:30 UTC] PHP Fatal error:  Call to a member function addBcc() on null in /home/raigovind93/public_html/testforelmer.php on line 733
+[16-Nov-2016 08:49:43 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/raigovind93/public_html/testforelmer.php on line 734
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: name in /home/raigovind93/public_html/testforelmer.php on line 3
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: phone in /home/raigovind93/public_html/testforelmer.php on line 4
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: email in /home/raigovind93/public_html/testforelmer.php on line 5
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: pickup in /home/raigovind93/public_html/testforelmer.php on line 6
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: dropoff in /home/raigovind93/public_html/testforelmer.php on line 7
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: date in /home/raigovind93/public_html/testforelmer.php on line 8
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: time in /home/raigovind93/public_html/testforelmer.php on line 9
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: passengers in /home/raigovind93/public_html/testforelmer.php on line 10
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: comments in /home/raigovind93/public_html/testforelmer.php on line 11
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: airline in /home/raigovind93/public_html/testforelmer.php on line 12
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: flightNumber in /home/raigovind93/public_html/testforelmer.php on line 13
+[16-Nov-2016 16:28:13 UTC] PHP Notice:  Undefined index: departureAirport in /home/raigovind93/public_html/testforelmer.php on line 14
+[25-Nov-2016 02:44:55 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[25-Nov-2016 02:47:29 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[25-Nov-2016 02:47:34 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[25-Nov-2016 02:47:39 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[25-Nov-2016 02:47:56 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[25-Nov-2016 02:48:24 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
+[25-Nov-2016 02:48:27 UTC] PHP Parse error:  syntax error, unexpected '$reply_to' (T_VARIABLE) in /home/raigovind93/public_html/maill.php on line 746
