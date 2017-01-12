@@ -1,0 +1,71 @@
+# Hypertext Access Directive by Govind Rai 
+
+# First rewrite to HTTPS:
+# Don't put www. here. If it is already there it will be included, if not
+# the subsequent rule will catch it.
+#RewriteCond %{HTTPS} off
+#RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Now, rewrite any request to the wrong domain to use www.
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# hide .html extension
+# To externally redirect /dir/file.html to /dir/file
+#RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+#RewriteRule ^ /%1 [R=302,L,NE]
+
+# To internally forward /dir/file to /dir/file.html
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{DOCUMENT_ROOT}/$1\.html -f [NC]
+#RewriteRule ^(.+?)/?$ /$1.html [L]
+
+
+# Testing internal forwarding or urls when accessing fake urls
+#RewriteRule ^tough(.)*$ tough_mudder_photos_2016.php [NC,L]
+
+#internal redirect to the right .html file
+#RewriteCond %{THE_REQUEST} !\.html$
+#RewriteCond %{THE_REQUEST} !-f
+#RewriteCond %{THE_REQUEST} !-d
+#RewriteRule ^/?([^\.]+)$ /$1.html [END]
+
+
+#RewriteCond %{THE_REQUEST} \.html$
+#RewriteCond %{THE_REQUEST} -f
+#RewriteRule ^([^\.]+)\.html$ /$1 [NC,R=301,END]
+
+## add www and turn on https in same rule
+
+# if HOST name doesn't start with www. - OR
+RewriteCond %{HTTP_HOST} !^www\. [NC,OR]
+# if HTTPS is off
+RewriteCond %{HTTPS} off
+# *capture* hostname part after www in %1
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+# redirect with https://www.%1/... to always apply https and www
+RewriteRule ^ https://www.%1%{REQUEST_URI} [R=301,L,NE]
+
+## hide .html extension
+# if original request is ending with .html then capture part before .html in %1
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+# and redirect to %1 (part without .html)
+RewriteRule ^ /%1 [R=302,NE,L]
+
+# internally add .html if there a matching .html file in your web root
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+?)/?$ $1.html [L]
+
+
+
+#if anything ends in .html then redirect it to one without .html
+#RewriteRule (.+)(?:\.html)$ $1 [R=301]
+
+
+#RewriteCond %{REQUEST_URL} !-d
+#RewriteCond %{REQUEST_URI}\.html -f [NC]
+#RewriteRule /([^\.])$ /$1.html
+
+
+
+
