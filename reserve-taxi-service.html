@@ -126,8 +126,8 @@
               <h1 class="special thank-you-message">Reserve Taxi Service</h1>
               <input class="short-fields shorter w-input" data-name="name" id="name-2" maxlength="256" name="name" placeholder="Name" required="required" type="text">
               <input class="short-fields shorter w-input" data-name="phone" id="phone" maxlength="256" name="phone" placeholder="Phone Number" required="required" type="text">
-              <input class="short-fields w-input" data-name="pickup" id="autocomplete" maxlength="256" name="pickup" placeholder="Pick Up Location" required="required" type="text">
-              <input class="short-fields w-input" data-name="dropoff" id="autocomplete2" maxlength="256" name="dropoff" placeholder="Drop off Location" required="required" type="text">
+              <input class="short-fields w-input" data-name="pickup" id="pickup" maxlength="256" name="pickup" placeholder="Pick Up Location" required="required" type="text">
+              <input class="short-fields w-input" data-name="dropoff" id="dropoff" maxlength="256" name="dropoff" placeholder="Drop off Location" required="required" type="text">
               <input class="short-fields shorter w-input" data-name="date" id="datepicker" maxlength="256" name="date" placeholder="Date" required="required" type="text">
               <input class="short-fields shorter timepicker w-input" data-name="time" id="time-5" maxlength="256" name="time" placeholder="Time" required="required" type="text">
               <input class="short-fields shorter w-input" data-name="email" id="email-5" maxlength="256" name="email" placeholder="Email" required="required" type="email">
@@ -257,22 +257,6 @@
       maxDate: "+4m",
       minDate: 0
     });
-  </script>
-  <script>
-    var input = /** @type {!HTMLInputElement} */(
-                document.getElementById('autocomplete'));
-     var autocomplete = new google.maps.places.Autocomplete(input);
-     autocomplete.addListener('place_changed', function() {
-              infowindow.close();
-              marker.setVisible(false);
-              var place = autocomplete.getPlace();
-              if (!place.geometry) {
-                // User entered the name of a Place that was not suggested and
-                // pressed the Enter key, or the Place Details request failed.
-                window.alert("No details available for input: '" + place.name + "'");
-                return;
-              }
-              });
   </script>
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHXjAOpul_E0LWhumACM2o2ZfDamQ8q5o&libraries=places"></script>
 </body>
